@@ -7,6 +7,6 @@
     <title>Web Study</title>
 </head>
 <body>
-    <h1>하하오오오 호호호아아도도도우우우</h1>
+    <h1>하하오오오 호호호아아도도도우우우1</h1>
 </body>
 </html>
