@@ -74,7 +74,7 @@
         // console.log(dancerName);
 
         // 서버에 링크로 삭제 요청
-        window.location.href='/dancer/delete?name=' + dancerName;
+        window.location.href = '/dancer/delete?name=' + dancerName;
 
     };
 
@@ -82,5 +82,4 @@
 </script>
 
 </body>
-=
 </html>
